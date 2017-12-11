@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * A class that generates an emoji based on the user's mood rated from 1-10.
- * @author lmitzel2
+ * @author lmitzel2, pshah93
  *
  */
 public class EmojiGenerator {
